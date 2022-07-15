@@ -11,3 +11,4 @@
 Execution Video - [Screencastify](https://drive.google.com/file/d/1b_sXxcjOFzQuwmEFwiwC83Q4s1nn-xTu/view)<br>
 Test Video - [Screencastify](https://drive.google.com/file/d/179Lcv4cddifvN66lMf9iRjMz_7pMccHM/view)<br>
 Repository link: https://github.com/aarthigans/designation-generator
+<img src="./assets/image/Screenshot.png">
