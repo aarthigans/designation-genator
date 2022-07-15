@@ -62,10 +62,11 @@ const addManager = () => {
             message: "Enter the manager's office number",
             validate: nameInput => {
                 if  (nameInput) {
-                    console.log ('Enter an office number!')
-                    return false; 
+                    
+                    return true; 
                 } else {
-                    return true;
+                    console.log ('Enter an office number!')
+                    return false;
                 }
             }
         }
