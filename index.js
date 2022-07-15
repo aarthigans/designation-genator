@@ -36,9 +36,9 @@ const addManager = () => {
             validate: nameInput => {
                 if  (isNaN(nameInput)) {
                     console.log ("Enter the manager's ID!")
-                    return false; 
+                    return true; 
                 } else {
-                    return true;
+                    return false;
                 }
             }
         },
