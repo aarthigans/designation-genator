@@ -1,4 +1,4 @@
-# designation-genarator
+# Designation-Generator
 
 ## Instruction
 * User has to clone the repository from Github. 
